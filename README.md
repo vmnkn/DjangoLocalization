@@ -1,2 +1,2 @@
 # DjangoLocalization
-Test Django localization abilities (translating and timezone)
+Test django locatization (translating and time)
