@@ -6,5 +6,5 @@ from django.utils.translation import gettext as _
 
 class Index(View):
     def get(self, request):
-        string = _('Django translation test')
+        string = _('Hello world')
         return HttpResponse(string)
